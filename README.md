@@ -6,13 +6,13 @@
 
 <p align="center">
   <!-- Social icons section -->
-  <a href="https://www.linkedin.com/in/shehzad-ansari/"><img width="32px" alt="Shehzad's LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+  <a href="https://www.linkedin.com/in/shehzad-ansari/"><img width="40px" alt="Shehzad's LinkedIn" title="LinkedIn" src="icons/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/M_ShehzadAslam"><img width="32px" alt="Shehzad's Twitter" title="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+  <a href="https://github.com/ShehzadCodeArt"><img width="40px" alt="Shehzad's Github" title="Github" src="icons/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/ShehzadCodeArt"><img width="32px" alt="Shehzad's Github" title="Github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
+  <a href="https://www.hackerrank.com/shehzadcodeart"><img width="40px" alt="Shehzad's Hackerrank" title="Hackerrank" src="icons/hackerrank.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.hackerrank.com/shehzadcodeart"><img width="32px" alt="Shehzad's Hackerrank" title="Hackerrank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"/></a>
+   <a href="https://twitter.com/M_ShehzadAslam"><img width="40px" alt="Shehzad's Twitter" title="Twitter" src="icons/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -31,11 +31,15 @@
     </a>
   </p>
 
-  - 🌱 I’m currently learning **MERN Stack**
+  - 🌱 Currently, I'm exploring **JavaScript**.
 
-  - 👨‍💻 All of my projects are available at [https://github.com/ShehzadCodeArt](https://github.com/ShehzadCodeArt)
+  - 📚 I hold a degree in **BCA** [Bachelor of Computer Application].
 
-  - 💬 Ask me about **HTML, CSS, JS**
+  - 💡 I enjoy tackling challenging problems and collaborating on innovative projects.
+
+  - 🎯 My goal is to become a **MERN Stack** Developer.
+
+  - 👨‍💻 All of my **projects** are available at [https://github.com/ShehzadCodeArt](https://github.com/ShehzadCodeArt)
 
   - 📫 How to reach me **shehzadaslam002@gmail.com**
 </p>
@@ -46,27 +50,48 @@
 
 </br>
 
-<h2>📊 Github Stats and Activity</h2>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+
+
+  
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
 
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shehzadcodeart&theme=dark" alt="GitHub Streak" />
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehzadcodeart&theme=dark" alt="GitHub Streak" />
+    </a>
+    <!-- <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
   </p>
-  
+
   <h3>💻 GitHub Profile Stats</h3>
+
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <p align="left">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="ShehzadCodeArt's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ShehzadCodeArt&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-      </a>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="ShehzadCodeArt's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShehzadCodeArt&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-    </p>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ShehzadCodeArt&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ShehzadCodeArt&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-  </br>
+  
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="ShehzadCodeArt's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ShehzadCodeArt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ShehzadCodeArt's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ShehzadCodeArt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ShehzadCodeArt&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ShehzadCodeArt&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
