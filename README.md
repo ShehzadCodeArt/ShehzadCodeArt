@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/ShehzadCodeArt/ShehzadCodeArt/blob/main/Banner.gif)
+![MasterHead](Banner.gif)
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5865F2&center=true&width=700&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehzad+Ansari" alt="Typing SVG" /></a></h1>
 <h2 align="center">Aspiring MERN Stack Developer | BCA Graduated</h2>
@@ -14,33 +14,24 @@
    <a href="https://twitter.com/M_ShehzadAslam"><img height="32" width="32" src="https://cdn.simpleicons.org/twitter/5865F2"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
-<br/>
+</br>
 
 <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="shehzadcodeart" />
 
-<p align="left">
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=shehzadcodeart&label=Profile%20views&color=0e75b6&style=flat" alt="shehzadcodeart" />
-  </p>
-
-  <p align="left">
-    <a href="https://linkedin.com/in/shehzad-ansari" target="blank">
-      <img src="https://img.shields.io/twitter/follow/shehzad-ansari?logo=linkedin&style=for-the-badge" alt="m_shehzadaslam" />
-    </a>
-  </p>
+  <a href="https://github.com/shehzadcodeart"> <img src="https://komarev.com/ghpvc/?username=shehzadcodeart&style=for-the-badge&color=brightgreen"> </a></br>
+  <a href="https://linkedin.com/in/shehzad-ansari" target="blank">
+    <img src="https://img.shields.io/twitter/follow/shehzad-ansari?logo=linkedin&style=for-the-badge" alt="m_shehzadaslam" />
+  </a>
 
   - 🌱 Currently, I'm exploring **JavaScript**.
 
-  - 📚 I hold a degree in **BCA** [Bachelor of Computer Application].
+  - 📚 I hold a degree in **BCA**.
 
-  - 💡 I enjoy tackling challenging problems and collaborating on innovative projects.
-
-  - 🎯 My goal is to become a **MERN Stack** Developer.
+  - 🎯 Aspiring **MERN Stack** Developer.
 
   - 👨‍💻 All of my **projects** are available at [https://github.com/ShehzadCodeArt](https://github.com/ShehzadCodeArt)
 
-  - 📫 How to reach me **shehzadaslam002@gmail.com**
+
 </p>
 
 </br>
