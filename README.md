@@ -6,13 +6,13 @@
 
 <p align="center">
   <!-- Social icons section -->
-  <a href="https://www.linkedin.com/in/shehzad-ansari/"><img width="40px" alt="Shehzad's LinkedIn" title="LinkedIn" src="icons/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/shehzad-ansari/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/5865F2"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/ShehzadCodeArt"><img width="40px" alt="Shehzad's Github" title="Github" src="icons/github.png"/></a>
+  <a href="https://github.com/ShehzadCodeArt"><img height="32" width="32" src="https://cdn.simpleicons.org/github/5865F2"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.hackerrank.com/shehzadcodeart"><img width="40px" alt="Shehzad's Hackerrank" title="Hackerrank" src="icons/hackerrank.png"/></a>
+  <a href="https://www.hackerrank.com/shehzadcodeart"><img height="32" width="32" src="https://cdn.simpleicons.org/hackerrank/5865F2"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://twitter.com/M_ShehzadAslam"><img width="40px" alt="Shehzad's Twitter" title="Twitter" src="icons/twitter.png"/></a>
+   <a href="https://twitter.com/M_ShehzadAslam"><img height="32" width="32" src="https://cdn.simpleicons.org/twitter/5865F2"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -51,15 +51,21 @@
 </br>
 
 # 🚀 Programming Languages:
-
+<!--  Icons From here: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 ### 💻 Core Programming Skills:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+ 
 ### 🌐 Web Development:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
+### 🚀 Frameworks & Library
+![Bootstarp](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+ 
 ### 🛠️ Tools and Platforms:
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![VSCode](https://img.shields.io/badge/vscode-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### 🖍 Design
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 </br>
 
