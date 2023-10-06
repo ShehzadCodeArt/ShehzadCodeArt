@@ -1,8 +1,7 @@
 ![MasterHead](https://github.com/ShehzadCodeArt/ShehzadCodeArt/blob/main/Banner.gif)
 
-<h1 align="center">Hi 👋, I'm Shehzad Ansari</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5865F2&center=true&width=700&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehzad+Ansari" alt="Typing SVG" /></a></h1>
 <h2 align="center">Aspiring MERN Stack Developer | BCA Graduated</h2>
-
 
 <p align="center">
   <!-- Social icons section -->
