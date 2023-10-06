@@ -1,7 +1,11 @@
 ![MasterHead](Banner.gif)
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5865F2&center=true&width=700&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehzad+Ansari" alt="Typing SVG" /></a></h1>
-<h2 align="center">Aspiring MERN Stack Developer | BCA Graduated</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=4000&pause=1000&color=5865F2&center=true&vCenter=true&width=700&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehzad+Ansari" alt="Typing SVG" /></a>
+  <h2 align="center">Aspiring MERN Stack Developer | BCA Graduated</h2>
+
+  </br>
+</div>
 
 <p align="center">
   <!-- Social icons section -->
@@ -40,17 +44,14 @@
 
 </br>
 
-# 🚀 Programming Languages:
-<!--  Icons From here: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-### 💻 Core Programming Skills:
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
- 
-### 🌐 Web Development:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
-### 🚀 Frameworks & Library
-![Bootstarp](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
- 
+<!--  Icons From here: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+
+# 🚀🛠️Skills & Tools:
+
+### 🌐 Web Development:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Bootstarp](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ### 🛠️ Tools and Platforms:
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
@@ -60,37 +61,47 @@
 </br>
 
 # 📊 Github Stats and Activity
-  <h3>🔥 Streak Stats</h3>
+
+<details open>
+  <summary><h3 style="display: inline-block;">🔥 Streak Stats</h3></summary>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
  
-[![GitHub Streak](https://github-readme-streak-stats-seven-tau.vercel.app?user=ShehzadCodeArt&theme=vision-friendly-dark&border_radius=10)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-seven-tau.vercel.app?user=ShehzadCodeArt&theme=vision-friendly-dark&border_radius=10)](https://git.io/streak-stats)
 
-  <h3>💻 GitHub Profile Stats</h3>
+</details>
+
+<details open>
+  <summary><h3 style="display: inline-block;">💻 Profile Stats</h3></summary>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats-shehzadcodearts-projects.vercel.app/api/?username=ShehzadCodeArt&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats-shehzadcodearts-projects.vercel.app/api/top-langs/?username=ShehzadCodeArt&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats-shehzadcodearts-projects.vercel.app/api/?username=ShehzadCodeArt&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats-shehzadcodearts-projects.vercel.app/api/top-langs/?username=ShehzadCodeArt&langs_count=8&layout=compact&theme=vision-friendly-dark" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<details>
+  <summary><h3 style="display: inline-block;">📊 Activity Graph</h3></summary>
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ShehzadCodeArt's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ShehzadCodeArt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ShehzadCodeArt's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ShehzadCodeArt&theme=chartreuse-dark" /></a>
 
+</details>
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShehzadCodeArt&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShehzadCodeArt&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
 
 ---
