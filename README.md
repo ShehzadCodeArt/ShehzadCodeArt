@@ -67,12 +67,8 @@
   <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehzadcodeart&theme=dark" alt="GitHub Streak" />
-    </a>
-    <!-- <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
-  </p>
+ 
+[![GitHub Streak](https://github-readme-streak-stats-seven-tau.vercel.app?user=ShehzadCodeArt&theme=vision-friendly-dark&border_radius=10)](https://git.io/streak-stats)
 
   <h3>💻 GitHub Profile Stats</h3>
 
