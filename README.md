@@ -92,9 +92,13 @@
 
 </details>
 
-## 🏆 Trophies
+<details>
+  <summary><h3 style="display: inline-block;">🏆 Trophies</h3></summary>
+<!-- ## 🏆 Trophies -->
+  
 ![](https://github-profile-trophy.vercel.app/?username=ShehzadCodeArt&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
+</details>
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
