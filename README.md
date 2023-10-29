@@ -1,4 +1,4 @@
-![MasterHead](Banner.gif)
+<!-- ![MasterHead](Banner.gif) -->
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=4000&pause=1000&color=5865F2&center=true&vCenter=true&width=700&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehzad+Ansari" alt="Typing SVG" /></a>
